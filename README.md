@@ -1,5 +1,7 @@
-# Intrusive-Outliers-based-Feature-Selection-IOFS-
+# Intrusive-Outliers-based-Feature-Selection, IOFS
 Feature Selection Based on Intrusive Outliers Rather Than All Instances, IEEE TIP, 2024
+
+To enhance the readability of the code, we have been optimizing it recently. The code will be uploaded as soon as possible.
 
 If you use the matlab code here, please cite our paper below:
 References: Lixin Yuan, Yirui Wu, Cheng Mei, Wenhai Wang, Tong Lu, "Feature Selection Based on Intrusive Outliers Rather Than All Instances", IEEE TRANSACTIONS ON IMAGE PROCESSING, VOL. 33, 2024.
